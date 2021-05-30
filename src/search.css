@@ -1,0 +1,11 @@
+.search-form {
+    margin: 0 auto;
+  }
+  
+  #current-btn {
+    left: 300px;
+    top: -85px;
+    border-radius: 12px;
+    color: white;
+    background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);
+  }

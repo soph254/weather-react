@@ -1,0 +1,11 @@
+.App {
+  font-family: "Shippori Mincho B1", serif;
+  margin: 30px auto;
+  border-radius: 10px;
+  box-shadow: rgb(0 0 0 / 20%) 0 5px 5px 0;
+  max-width: 600px;
+  height: auto;
+  padding: 20px;
+  border: 1px solid #dadde1;
+  background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+}
